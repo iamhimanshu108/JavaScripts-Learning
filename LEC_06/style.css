@@ -1,0 +1,10 @@
+h1 {
+    color: rgb(0, 0, 207);
+    text-decoration: line-through;
+    text-align: center;
+    padding: auto;
+}
+
+button {
+    color: red;
+}
