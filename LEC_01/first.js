@@ -1,4 +1,4 @@
-// console.log("Hello World");
+console.log("Hello World");
 
 // name = "Tony Stark";
 
@@ -21,23 +21,23 @@
 // Q1
 // ANS:-
 
-const product = {
-    name: "Pen ",
-    type: "BAll",
-    rating: 4.5,
-    price: 20,
-};
+// const product = {
+//     name: "Pen ",
+//     type: "BAll",
+//     rating: 4.5,
+//     price: 20,
+// };
 
-console.log(product);
+// console.log(product);
 
 // Q2 ANS:-
 
-const profile = {
-    name: "Shardha Khapra",
-    username: "shardhakhapra",
-    posts:"56",
-    follwers:"520",
-    following:"15",
-    bio:"Apna College"
-}
-console.log(profile);
+// const profile = {
+//     name: "Shardha Khapra",
+//     username: "shardhakhapra",
+//     posts:"56",
+//     follwers:"520",
+//     following:"15",
+//     bio:"Apna College"
+// }
+// console.log(profile);
