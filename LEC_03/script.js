@@ -1,6 +1,6 @@
 // LEC_03 loops and String
 // -------------- For Loop---------------
-//Print 1 to 5
+// Print 1 to 5
 // for ( let i = 1; i <=5; i++){
 //     console.log("Apna College"); // 5times executed
 // }
@@ -120,9 +120,9 @@
 
 // Q4 
 
-let fullname = prompt("Enter You Full NHimanshuame");
+// let fullname = prompt("Enter You Full NHimanshuame");
 
-let username = "@" + fullname + fullname.length;
-console.log(username);
+// let username = "@" + fullname + fullname.length;
+// console.log(username);
 
 
