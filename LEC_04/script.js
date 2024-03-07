@@ -16,15 +16,17 @@
 // Looping over An Array
 
 // let heroes = ["Himanshu", "Yadav", "Thor","Doga", "ChotaBheem"]
-//For Loop
+// // For Loop
 // for(let i=0; i<heroes.length; i++){
 //     console.log(heroes[i]);
 // }
 
-// // For of 
+// // // For of 
 // for (let i  of heroes) {
 //     console.log(i.toUpperCase());
 // }
+
+
 
 
 // Q1 For a given array with marks of students [ 85,97,44,37,76,60] Find the average marks of the entries class.
@@ -37,13 +39,13 @@
 //     sum += val;
 // }
 // let avg = sum/marks.length
-// console.log(`avg marks of the class`);
+// console.log(`avg marks of the class = ${avg}`);
 
 
 // Q2 For a given array with price of 5 items -> [250. 645, 300, 900, 50] All items have an offer of 10% OFF on them. Change the array to stoe final price after applying offer
 
-// let items = [250, 645, 300, 900, 50]
-// let i =0;
+let items = [250, 645, 300, 900, 50]
+let i =0;
 
 // for(let val of items){
 //     let offer = val /10;
@@ -51,7 +53,20 @@
 //     console.log(`val after offer = ${items[i]}`);
 //     i++; 
 // }
+
+// for (let i = 0; i< items.length; i++){
+//     let offer = items[i] / 10;
+//     items[i] -= offer;
+    
+// }
 // console.log(items);
+
 
 // ============Array Methods==============
 
+let foodItems = ["potato", "apple", "litchi", "tomato"]
+
+// foodItems.push("chips", "Orange")
+// foodItems.pop("chips")
+
+// console.log(foodItems);
