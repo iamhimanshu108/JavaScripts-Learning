@@ -1,5 +1,5 @@
 // Lec 05 Function
-// let msg = "Ka hal ba"
+// let msg = "Ka hal ba ho "
 // function myFunction(msg) {
 //     console.log("Himanshu Yadav");
 //     console.log(msg);
@@ -147,18 +147,18 @@
 
 // Ans:-
 
-let n = prompt("Enter the Number: ");
+// let n = prompt("Enter the Number: ");
 
-let arr = [];
+// let arr = [];
 
-for(let i=1; i<=n; i++){
-    arr[i-1] = i;
-}
+// for(let i=1; i<=n; i++){
+//     arr[i-1] = i;
+// }
 
-console.log(arr);
+// console.log(arr);
 
-let sum = arr.reduce((res ,curr) => {
-    return res+curr;
-})
+// let sum = arr.reduce((res ,curr) => {
+//     return res+curr;
+// })
 
-console.log(sum);
+// console.log(sum);
