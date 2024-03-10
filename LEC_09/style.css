@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #548687;
+    background-color: #50dcdf;
     text-align: center;
 }
 
@@ -33,7 +33,7 @@ body {
     border: none;
     box-shadow: 0 0 1rem rgba(0,0,0,0.5);
     font-size: 8vmin;
-    color: #c4140e;
+    color: #dd0d06;
     background-color: #ffffc7;
 }
 
