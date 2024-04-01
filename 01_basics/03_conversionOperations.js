@@ -1,4 +1,4 @@
-// let score = "Himanshu123"
+let score = "Himanshu123"
 
 // console.log(typeof score);
 // console.log(typeof(score));
